@@ -42,11 +42,15 @@ Gradle循序渐进教程，同时推广Gradle让更多人认识并使用。
 ### [Chapter 5 - Gradle Plugin(插件)](chapter5)
 
 - [5.1 - 关于 Gradle Plugin](chapter5/5.1)
-- [5.1 - Gradle 核心 Plugin](chapter5/5.1)
-- [5.1 - Gradle Java Plugin](chapter5/5.1)
-- [5.1 - Gradle Java Plugin](chapter5/5.1)
-- [5.1 - Gradle Java Plugin](chapter5/5.1)
-- [5.1 - Gradle Java Plugin](chapter5/5.1)
+- [5.2 - Gradle 基础 Plugin](chapter5/5.2)
+- [5.3 - Gradle java Plugin](chapter5/5.3)
+- [5.4 - Gradle application/distribution Plugin](chapter5/5.4)
+- [5.5 - Gradle ear/war Plugin](chapter5/5.5)
+- [5.6 - Gradle maven/ivy Plugin](chapter5/5.6)
+- [5.7 - Gradle eclipse/idea Plugin](chapter5/5.7)
+- [5.8 - Gradle checkstyle/findbugs/pmd Plugin](chapter5/5.8)
+- [5.9 - Gradle signing Plugin](chapter5/5.9)
+- [5.10 - Gradle 其它 Plugin](chapter5/5.10)
 
 ### [Chapter 6 - Gradle Multi-Project(多项目构建)](chapter6)
 
