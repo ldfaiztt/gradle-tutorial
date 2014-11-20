@@ -1,4 +1,4 @@
-Gradle循序渐进教程，同时也顺带推广Gradle让更多人认识并使用。
+Gradle循序渐进教程，同时推广Gradle让更多人认识并使用。
 
 本人也是初学者，接触Gradle之前没有任何Groovy基础。
 
