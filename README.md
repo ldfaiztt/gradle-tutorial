@@ -9,7 +9,7 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 目录
 ===============
 
-### [Chapter 1 - Groovy 简介](chapter1)
+### [Chapter 1 - Groovy 简介](Chapter 1 - Groovy 简介)
 
 - [1.1  - 关于 Groovy](chapter1/1.1)
 - [1.2  - Groovy 语法](chapter1/1.2)
@@ -19,19 +19,19 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 - [1.6  - Groovy 网络](chapter1/1.6)
 - [1.7  - Groovy 其他可能需要了解的地方](chapter1/1.7)
 
-### [Chapter 2 - Gradle 简介](chapter2)
+### [Chapter 2 - Gradle 简介](Chapter 2 - Gradle 简介)
 
 - [2.1  - 关于 Gradle](chapter2/2.1)
 - [2.2  - Gradle 下载/安装/配置](chapter2/2.2)
 - [2.3  - Gradle 命令行/GUI](chapter2/2.3)
 - [2.4  - Gradle 构建配置文件/运行时参数](chapter2/2.4)
 
-### [Chapter 3 - Gradle Project/Task](chapter3)
+### [Chapter 3 - Gradle Project/Task](Chapter 3 - Gradle Project&Task)
 
 - [3.1  - Gradle Project](chapter3/3.1)
 - [3.2  - Gradle Task](chapter3/3.2)
 
-### [Chapter 4 - Gradle Dependency(依赖管理)](chapter4)
+### [Chapter 4 - Gradle Dependency(依赖管理)](Chapter 4 - Gradle Dependency(依赖管理))
 
 - [4.1  - 关于 Gradle 依赖管理](chapter4/4.1)
 - [4.2  - Gradle 脚本/插件依赖](chapter4/4.2)
@@ -40,7 +40,7 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 - [4.5  - Gradle 依赖管理的工作流程](chapter4/4.5)
 - [4.6  - Gradle 传递依赖](chapter4/4.6)
 
-### [Chapter 5 - Gradle Plugin(插件)](chapter5)
+### [Chapter 5 - Gradle Plugin(插件)](Chapter 5 - Gradle Plugin(插件))
 
 - [5.1  - 关于 Gradle Plugin](chapter5/5.1)
 - [5.2  - Gradle 基础 Plugin](chapter5/5.2)
@@ -53,10 +53,10 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 - [5.9  - Gradle signing Plugin](chapter5/5.9)
 - [5.10 - Gradle 其它 Plugin](chapter5/5.10)
 
-### [Chapter 6 - Gradle Multi-Project(多项目构建)](chapter6)
+### [Chapter 6 - Gradle Multi-Project(多项目构建)](Chapter 6 - Gradle Multi-Project(多项目构建))
 
-### [Chapter 7 - Gradle Publishing(发布)](chapter7)
+### [Chapter 7 - Gradle Publishing(发布)](Chapter 7 - Gradle Publishing(发布))
 
-### [Chapter 8 - Gradle 实例 - 满足自定义的需求](chapter8)
+### [Chapter 8 - Gradle 实例 - 满足自定义的需求](Chapter 8 - Gradle 实例 - 满足自定义的需求)
 
-### [Chapter 9 - Gradle 学习总结](chapter9)
+### [Chapter 9 - Gradle 学习总结](Chapter 9 - Gradle 学习总结)
