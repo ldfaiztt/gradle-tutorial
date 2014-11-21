@@ -42,21 +42,38 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 
 ### [Chapter 5 - Gradle Plugin(插件)](Chapter 5 - Gradle Plugin(插件))
 
-- [5.1  - 关于 Gradle Plugin](chapter5/5.1)
-- [5.2  - Gradle 基础 Plugin](chapter5/5.2)
-- [5.3  - Gradle java Plugin](chapter5/5.3)
-- [5.4  - Gradle application/distribution Plugin](chapter5/5.4)
-- [5.5  - Gradle ear/war Plugin](chapter5/5.5)
-- [5.6  - Gradle maven/ivy Plugin](chapter5/5.6)
-- [5.7  - Gradle eclipse/idea Plugin](chapter5/5.7)
-- [5.8  - Gradle checkstyle/findbugs/pmd Plugin](chapter5/5.8)
-- [5.9  - Gradle signing Plugin](chapter5/5.9)
-- [5.10 - Gradle 其它 Plugin](chapter5/5.10)
+- [5.1  - 关于 Gradle 插件](chapter5/5.1)
+- [5.2  - Gradle 基础插件](chapter5/5.2)
+- [5.3  - Gradle java 插件](chapter5/5.3)
+- [5.4  - Gradle application/distribution 插件](chapter5/5.4)
+- [5.5  - Gradle ear/war 插件](chapter5/5.5)
+- [5.6  - Gradle maven/ivy 插件](chapter5/5.6)
+- [5.7  - Gradle eclipse/idea 插件](chapter5/5.7)
+- [5.8  - Gradle checkstyle/findbugs/pmd 插件](chapter5/5.8)
+- [5.9  - Gradle signing 插件](chapter5/5.9)
+- [5.10 - Gradle 其它插件](chapter5/5.10)
 
 ### [Chapter 6 - Gradle Multi-Project(多项目构建)](Chapter 6 - Gradle Multi-Project(多项目构建))
 
+- [6.1 - 关于 Gradle 多项目构建](chapter6/6.1)
+- [6.2 - Gradle 多项目构建的配置与规则](chapter6/6.2)
+- [6.3 - Gradle 多项目构建的依赖管理](chapter6/6.3)
+- [6.4 - Gradle 多项目构建与buildSrc](chapter6/6.4)
+
 ### [Chapter 7 - Gradle Publishing(发布)](Chapter 7 - Gradle Publishing(发布))
 
-### [Chapter 8 - Gradle 实例 - 满足自定义的需求](Chapter 8 - Gradle 实例 - 满足自定义的需求)
+- [7.1 - 关于 Gradle 的发布](chapter7/7.1)
+- [7.2 - Gradle 发布 artifact(构件)到本地](chapter7/7.2)
+- [7.3 - Gradle 发布 artifact(构件)到 Maven](chapter7/7.3)
+
+### [Chapter 8 - Gradle 实例](Chapter 8 - Gradle 实例 - 满足自定义的需求)
+
+- [8.1 - 迁移到 Gradle(以Github上的开源项目为例)](chapter8/8.1)
+  * [8.1.1 - 从 Ant 迁移到 Gradle](chapter8/8.1.1)
+  * [8.1.2 - 从 Maven 迁移到 Gradle](chapter8/8.1.2)
+- [8.2 - 一个实现自定义需求的 Android 构建实例](chapter8/8.2)
 
 ### [Chapter 9 - Gradle 学习总结](Chapter 9 - Gradle 学习总结)
+
+- [9.1 - 知识点回顾](chapter9/9.1)
+- [9.2 - 尚未介绍到的 Gradle 的功能](chapter9/9.2)
