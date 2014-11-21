@@ -76,4 +76,4 @@ Gradle入门进阶教程，推广Gradle希望有更多人认识并使用它。
 ### [Chapter 9 - Gradle 学习总结](Chapter 9 - Gradle 学习总结)
 
 - [9.1 - 知识点回顾](chapter9/9.1)
-- [9.2 - 尚未介绍到的 Gradle 的功能](chapter9/9.2)
+- [9.2 - 教程尚未介绍的功能](chapter9/9.2)
