@@ -18,8 +18,8 @@ Gradle入门教程，推广Gradle希望有更多人认识并使用它。
 - [1.3  - Groovy 字符串（已完成）](Chapter 1 - Groovy 简介/1.3.md)
 - [1.4  - Groovy 闭包（已完成）](Chapter 1 - Groovy 简介/1.4.md)
 - [1.5  - Groovy 集合（已完成）](Chapter 1 - Groovy 简介/1.5.md)
-- [1.6  - Groovy IO（延迟处理）](Chapter 1 - Groovy 简介/1.6.md)
-- [1.7  - Groovy 网络（延迟处理）](Chapter 1 - Groovy 简介/1.7.md)
+- [1.6  - Groovy IO（延迟）](Chapter 1 - Groovy 简介/1.6.md)
+- [1.7  - Groovy 网络（延迟）](Chapter 1 - Groovy 简介/1.7.md)
 - [1.8  - Groovy 其他可能需要了解的地方](Chapter 1 - Groovy 简介/1.8.md)
 
 ### [Chapter 2 - Gradle 简介](Chapter 2 - Gradle 简介)
