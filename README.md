@@ -24,7 +24,7 @@ Gradle入门教程，推广Gradle希望有更多人认识并使用它。
 
 ### [Chapter 2 - Gradle 简介](Chapter 2 - Gradle 简介)
 
-- [2.1  - 关于 Gradle](Chapter 2 - Gradle 简介/2.1.md)
+- [2.1  - 关于 Gradle（已完成）](Chapter 2 - Gradle 简介/2.1.md)
 - [2.2  - Gradle 下载/安装/配置](Chapter 2 - Gradle 简介/2.2.md)
 - [2.3  - Gradle 命令行/GUI](Chapter 2 - Gradle 简介/2.3.md)
 - [2.4  - Gradle 构建配置文件/运行时参数](Chapter 2 - Gradle 简介/2.4.md)
